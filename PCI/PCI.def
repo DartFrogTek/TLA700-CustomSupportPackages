@@ -1,0 +1,16 @@
+LIBRARY PCI.DLL
+EXPORTS
+    ParseBusInfo
+    ParseDisasmReinit
+    ParseExtInfo_
+    ParseFinish
+    ParseGroupInfo
+    ParseInfo
+    ParseMarkGet
+    ParseMarkMenu
+    ParseMarkNext
+    ParseMarkSet
+    ParseModeGetPut
+    ParseModeInfo
+    ParseReinit
+    ParseSeq
